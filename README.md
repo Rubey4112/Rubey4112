@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm an undergraduate student interested in robotics.
 <!--
 **Rubey4112/Rubey4112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
