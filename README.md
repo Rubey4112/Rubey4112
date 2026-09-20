@@ -10,7 +10,7 @@ I do have a life outside of engineering too! You can usually find me: hiking wit
 
 If you are looking for a person who builds and is passionate about the final product, connect with me and we can have a chat.
 
-Current Personal Project: 6-DOF Robot Arm
+Current Personal Project: 5-DOF Robot Arm
 <!--
 **Rubey4112/Rubey4112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
